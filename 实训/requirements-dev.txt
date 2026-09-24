@@ -1,0 +1,3 @@
+# 开发依赖：基于运行时依赖，额外安装测试工具
+-r requirements.txt
+pytest
